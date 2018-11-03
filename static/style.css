@@ -1,0 +1,23 @@
+h1{
+  text-align: center;
+  display: inline-block;
+}
+
+h3{
+  text-align: center;
+  display: inline-block;
+}
+
+.wrong{
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  
+}
+
+.correct{
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  
+}
